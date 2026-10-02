@@ -30,7 +30,7 @@ I want to eventually create something that starts as an idea in my head and turn
 | **Next Up** | Python, Java |
 | **Hardware** | Digital Electronics, Circuits |
 | **Main Interest** | Embedded Systems & Hardware |
-| **Tools** | OnlineGDB, Ubuntu, Git, GitHub |
+| **Tools** | OnlineGDB, CodeBlocks |
 | **Future Exploration** | Microcontrollers, IoT & Hardware Projects |
 
 ---
